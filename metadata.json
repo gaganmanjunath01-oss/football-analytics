@@ -1,0 +1,6 @@
+{
+  "name": "MatchPulse",
+  "description": "Live Football Win Probability Dashboard displaying live match scores, team statistics, ML win/draw/loss probabilities, trend graphs, and historical team performance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
